@@ -1,4 +1,4 @@
-# COP-4520-Assignment-3\
+# COP-4520-Assignment-3
 
 Instructions\
 Part 1: javac birthdayLinkList.java && java birthdayLinkList\
